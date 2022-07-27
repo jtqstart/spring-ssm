@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.atguigu.ssm.test.SSMTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 sec <<< FAILURE!
+com.atguigu.ssm.test.SSMTest.testCon()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.atguigu.ssm.test.SSMTest.testCon(SSMTest.java:23)
+
